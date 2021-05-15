@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="ea266461-43a1-48ca-83e2-89e096f3157e"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="a4d61b3b-020e-44da-9b86-0258d09e5fdf"  >
+</g>
+<g transform="matrix(5.27 0 0 5.27 -350.63 483.78)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 38.09 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-11.91 -2.38,-7.15 -2.38,-2.39 -2.38,2.37 -2.38,7.14 -2.38,11.91 2.38,11.91 2.38,7.14 2.38,2.37 2.38,-2.39 2.38,-7.15 2.38,-11.91 -2.38,-11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -14.28)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(1,186,253); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="35.72,4.75 35.72,0 35.72,-4.77 35.72,-9.53 30.95,-9.53 26.19,-9.53 26.19,-14.29 21.43,-14.29 16.67,-14.29 11.91,-14.29 7.14,-14.29 2.38,-14.29 -2.38,-14.29 -7.14,-14.29 -11.9,-14.29 -16.66,-14.29 -21.43,-14.29 -26.19,-14.29 -26.19,-9.53 -30.95,-9.53 -35.71,-9.53 -35.71,-4.77 -35.71,0 -35.71,4.75 -35.71,9.52 -35.71,14.29 -30.95,14.29 -26.19,14.29 -26.19,9.52 -21.43,9.52 -21.43,14.29 -16.66,14.29 -11.9,14.29 -11.9,9.52 -7.14,9.52 -7.14,14.29 -2.38,14.29 2.38,14.29 2.38,9.52 7.14,9.52 7.14,14.29 11.91,14.29 16.67,14.29 16.67,9.52 21.43,9.52 21.43,14.29 26.19,14.29 30.95,14.29 35.72,14.29 35.72,9.52 35.72,4.75 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 16.67)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="26.18,-16.66 21.42,-16.66 21.42,-11.91 26.18,-11.91 30.95,-11.91 30.95,-7.15 30.95,-2.39 30.95,2.38 30.95,7.14 30.95,11.9 26.18,11.9 21.42,11.9 16.66,11.9 16.66,7.14 16.66,2.38 16.66,-2.39 16.66,-7.15 16.66,-11.91 16.66,-16.66 11.91,-16.66 7.13,-16.66 7.13,-11.91 11.91,-11.91 11.91,-7.15 11.91,-2.39 11.91,2.38 11.91,7.14 11.91,11.9 7.13,11.9 7.13,7.14 7.13,2.38 7.13,-2.39 7.13,-7.15 7.13,-11.91 2.38,-11.91 2.38,-7.15 2.38,-2.39 2.38,2.38 2.38,7.14 2.38,11.9 -2.38,11.9 -2.38,7.14 -2.38,2.38 -2.38,-2.39 -2.38,-7.15 -2.38,-11.91 2.38,-11.91 2.38,-16.66 -2.38,-16.66 -7.15,-16.66 -7.15,-11.91 -7.15,-7.15 -7.15,-2.39 -7.15,2.38 -7.15,7.14 -7.15,11.9 -11.91,11.9 -16.67,11.9 -16.67,7.14 -16.67,2.38 -16.67,-2.39 -16.67,-7.15 -16.67,-11.91 -11.91,-11.91 -11.91,-16.66 -16.67,-16.66 -21.44,-16.66 -21.44,-11.91 -21.44,-7.15 -21.44,-2.39 -21.44,2.38 -21.44,7.14 -21.44,11.9 -26.2,11.9 -30.96,11.9 -30.96,7.14 -30.96,2.38 -30.96,-2.39 -30.96,-7.15 -30.96,-11.91 -26.2,-11.91 -26.2,-16.66 -30.96,-16.66 -35.72,-16.66 -35.72,-11.91 -35.72,-7.15 -35.72,-2.39 -35.72,2.38 -35.72,7.14 -35.72,11.9 -40.48,11.9 -40.48,16.66 -35.72,16.66 -30.96,16.66 -26.2,16.66 -21.44,16.66 -16.67,16.66 -11.91,16.66 -7.15,16.66 -2.38,16.66 2.38,16.66 7.13,16.66 11.91,16.66 16.66,16.66 21.42,16.66 26.18,16.66 30.95,16.66 35.71,16.66 40.48,16.66 40.48,11.9 35.71,11.9 35.71,7.14 35.71,2.38 35.71,-2.39 35.71,-7.15 35.71,-11.91 35.71,-16.66 30.95,-16.66 26.18,-16.66 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.8 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,123,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,-4.77 -7.14,-0.01 -7.14,4.76 -7.14,9.52 -7.14,14.28 -2.38,14.28 2.38,14.28 7.14,14.28 7.14,9.52 7.14,4.76 7.14,-0.01 7.14,-4.77 7.14,-9.52 2.38,-9.52 -2.38,-9.52 -2.38,-14.28 -7.14,-14.28 -7.14,-9.52 -7.14,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 19.04 -2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 16.67)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,224,141); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,-2.38 -2.39,2.38 -2.39,7.15 -2.39,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.39,-11.9 -2.39,-7.14 -2.39,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 4.75 2.39)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,224,141); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 4.75 -2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 0 16.67)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,123,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-7.14 -2.38,-2.38 -2.38,2.38 -2.38,7.15 -2.38,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.38,-11.9 -2.38,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -9.53 -2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -11.9 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,224,141); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-9.52 -4.76,-4.77 -4.76,-0.01 -4.76,4.76 -4.76,9.52 -4.76,14.28 0,14.28 4.76,14.28 4.76,9.52 4.76,4.76 4.76,-0.01 4.76,-4.77 4.76,-9.52 4.76,-14.28 0,-14.28 0,-9.52 -4.76,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 -28.57)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-21.43,0 -16.66,0 -11.91,0 -7.14,0 -2.38,0 2.38,0 7.15,0 11.91,0 16.66,0 21.42,0 21.42,4.76 26.19,4.76 30.95,4.76 30.95,0 26.19,0 26.19,-4.76 21.42,-4.76 16.66,-4.76 11.91,-4.76 7.15,-4.76 2.38,-4.76 -2.38,-4.76 -7.14,-4.76 -11.91,-4.76 -16.66,-4.76 -21.43,-4.76 -26.2,-4.76 -30.95,-4.76 -30.95,0 -26.2,0 -21.43,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.82 -2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -26.2 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(189,123,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-9.52 -4.76,-4.77 -4.76,-0.01 -4.76,4.76 -4.76,9.52 -4.76,14.28 0,14.28 4.76,14.28 4.76,9.52 4.76,4.76 4.76,-0.01 4.76,-4.77 4.76,-9.52 4.76,-14.28 0,-14.28 0,-9.52 -4.76,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 -30.96 -26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -38.09 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,2.37 2.38,-2.39 2.38,-7.15 2.38,-11.91 -2.38,-11.91 -2.38,-7.15 -2.38,-2.39 -2.38,2.37 -2.38,7.14 -2.38,11.91 2.38,11.91 2.38,7.14 2.38,2.37 " />
+</g>
+</g>
+</g>
+<g transform="matrix(5.96 0 0 5.96 -874.36 584.38)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 2.39 35.71)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="28.57,-11.91 28.57,-7.15 28.57,-2.38 23.81,-2.38 23.81,2.38 19.05,2.38 14.28,2.38 14.28,7.14 9.52,7.14 4.76,7.14 0,7.14 -4.76,7.14 -4.76,2.38 -9.52,2.38 -14.29,2.38 -19.05,2.38 -23.81,2.38 -28.57,2.38 -33.33,2.38 -33.33,7.14 -28.57,7.14 -23.81,7.14 -19.05,7.14 -14.29,7.14 -9.52,7.14 -9.52,11.9 -4.76,11.9 0,11.9 4.76,11.9 9.52,11.9 14.28,11.9 19.05,11.9 19.05,7.14 23.81,7.14 28.57,7.14 28.57,2.38 33.33,2.38 33.33,-2.38 33.33,-7.15 33.33,-11.91 28.57,-11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 33.34)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(44,124,41); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="11.9,-4.77 7.14,-4.77 2.38,-4.77 -2.39,-4.77 -7.15,-4.77 -7.15,0 -11.91,0 -11.91,-4.77 -16.66,-4.77 -16.66,0 -16.66,4.76 -16.66,9.52 -11.91,9.52 -7.15,9.52 -2.39,9.52 2.38,9.52 2.38,4.76 -2.39,4.76 -2.39,0 2.38,0 2.38,4.76 7.14,4.76 11.9,4.76 11.9,0 16.66,0 16.66,-4.77 16.66,-9.53 11.9,-9.53 11.9,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -9.52)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-23.81 2.38,-19.05 2.38,-14.29 2.38,-9.52 2.38,-4.76 -2.38,-4.76 -2.38,0 -7.15,0 -7.15,4.76 -7.15,9.52 -2.38,9.52 -2.38,4.76 2.38,4.76 2.38,9.52 2.38,14.29 2.38,19.05 2.38,23.81 2.38,28.57 2.38,33.33 7.14,33.33 7.14,28.57 7.14,23.81 7.14,19.05 7.14,14.29 7.14,9.52 7.14,4.76 7.14,0 7.14,-4.76 7.14,-9.52 7.14,-14.29 7.14,-19.05 7.14,-23.81 7.14,-28.57 7.14,-33.33 2.38,-33.33 2.38,-28.57 2.38,-23.81 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 26.19)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 23.82 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 11.91)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -16.66)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -40.47)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 21.43 -45.24)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.77,2.38 4.77,-2.38 0.01,-2.38 -4.76,-2.38 -4.76,2.38 0.01,2.38 4.77,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(172,242,171); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,-2.38 -4.77,-2.38 -4.77,2.38 0,2.38 4.77,2.38 4.77,-2.38 0,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.77,4.76 4.77,0 4.77,-4.76 0,-4.76 0,0 -4.77,0 -4.77,4.76 0,4.76 4.77,4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 19.05 2.38)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.385" rx="0" ry="0" width="4.77" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 19.05 -11.9)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 21.43 -30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-2.38 0.01,-2.38 0.01,2.38 0.01,7.14 0.01,11.91 4.77,11.91 4.77,7.14 4.77,2.38 4.77,-2.38 4.77,-7.14 0.01,-7.14 0.01,-11.9 -4.76,-11.9 -4.76,-7.14 -4.76,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.28 35.72)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(172,242,171); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 26.19)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 16.67)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -45.24)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 -4.76)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,0 -7.14,4.76 -2.38,4.76 2.38,4.76 7.14,4.76 7.14,0 7.14,-4.76 2.38,-4.76 -2.38,-4.76 -7.14,-4.76 -7.14,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -35.71)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -40.47)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 33.33)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(172,242,171); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,0 -2.38,4.77 2.38,4.77 2.38,0 2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 11.91)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -4.76)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -9.52 30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.385" rx="0" ry="0" width="4.77" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 4.77 2.38)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-52, -66.66)" d="M 40.1 88.09 L 49.620000000000005 88.09 L 49.620000000000005 92.85000000000001 L 54.38 92.85000000000001 L 54.38 88.09 L 59.14 88.09 L 59.14 83.33 L 54.38 83.33 L 54.38 78.57 L 59.14 78.57 L 59.14 83.33 L 63.9 83.33 L 63.9 78.57 L 68.67 78.57 L 68.67 73.81 L 73.43 73.81 L 73.43 64.28 L 68.67 64.28 L 68.67 69.05 L 63.9 69.05 L 63.9 50 L 68.67 50 L 68.67 45.24 L 54.38 45.24 L 54.38 40.47 L 44.86 40.47 L 44.86 45.239999999999995 L 30.57 45.239999999999995 L 30.57 54.75999999999999 L 40.1 54.75999999999999 L 40.1 50 L 49.620000000000005 50 L 49.620000000000005 54.76 L 59.14 54.76 L 59.14 69.05 L 54.38 69.05 L 54.38 73.81 L 49.62 73.81 L 49.62 69.05 L 30.619999999999997 69.05 L 30.619999999999997 73.81 L 35.379999999999995 73.81 L 35.379999999999995 78.57000000000001 L 30.57 78.57000000000001 L 30.57 83.33000000000001 L 35.33 83.33000000000001 L 35.33 92.85000000000001 L 40.1 92.85000000000001 Z M 40.1 73.81 L 44.86 73.81 L 44.86 78.57000000000001 L 40.1 78.57000000000001 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-14.29,-2.38 -19.05,-2.38 -19.05,2.38 -19.05,7.14 -19.05,11.91 -14.29,11.91 -9.52,11.91 -4.76,11.91 -4.76,7.14 -4.76,2.38 0,2.38 4.76,2.38 4.76,7.14 4.76,11.91 9.52,11.91 14.28,11.91 19.05,11.91 19.05,7.14 19.05,2.38 19.05,-2.38 14.28,-2.38 14.28,-7.14 14.28,-11.9 9.52,-11.9 4.76,-11.9 4.76,-7.14 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,-7.14 -4.76,-11.9 -9.52,-11.9 -14.29,-11.9 -14.29,-7.14 -14.29,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -14.29 23.81)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 4.76)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,4.77 -11.9,4.77 -11.9,0.01 -7.14,0.01 -2.38,0.01 2.39,0.01 7.15,0.01 7.15,4.77 11.91,4.77 11.91,0.01 16.66,0.01 16.66,-4.77 11.91,-4.77 7.15,-4.77 2.39,-4.77 -2.38,-4.77 -7.14,-4.77 -11.9,-4.77 -11.9,-9.52 -16.66,-9.52 -16.66,-4.77 -16.66,0.01 -16.66,4.77 -16.66,9.52 -11.9,9.52 -7.14,9.52 -7.14,4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -14.29 -35.71)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -14.29 -40.47)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -14.29 -45.24)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 -16.66 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,30.95 0,26.19 -4.77,26.19 -4.77,21.43 -4.77,16.67 -4.77,11.9 -4.77,7.14 0,7.14 0,11.9 4.75,11.9 9.52,11.9 9.52,7.14 9.52,2.38 4.75,2.38 0,2.38 0,-2.38 -4.77,-2.38 -4.77,-7.14 -4.77,-11.91 -4.77,-16.67 -4.77,-21.43 -4.77,-26.19 0,-26.19 0,-30.95 -4.77,-30.95 -9.53,-30.95 -9.53,-26.19 -9.53,-21.43 -9.53,-16.67 -9.53,-11.91 -9.53,-7.14 -9.53,-2.38 -9.53,2.38 -9.53,7.14 -9.53,11.9 -9.53,16.67 -9.53,21.43 -9.53,26.19 -9.53,30.95 -4.77,30.95 0,30.95 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -16.66)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(140,137,162); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,2.38 2.38,-2.38 2.38,-7.14 -2.38,-7.14 -2.38,-2.38 -2.38,2.38 -2.38,7.14 2.38,7.14 2.38,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -35.71)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,180,211); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -19.04 30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(44,124,41); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,7.14 2.38,7.14 7.14,7.14 11.91,7.14 11.91,2.38 7.14,2.38 7.14,-2.39 2.38,-2.39 2.38,-7.14 -2.38,-7.14 -7.14,-7.14 -7.14,-2.39 -7.14,2.38 -11.9,2.38 -11.9,7.14 -7.14,7.14 -2.38,7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -21.43 21.43)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(172,242,171); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -28.57 30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(172,242,171); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 -28.57 23.81)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -33.33 33.33)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,0 -2.38,4.77 2.38,4.77 2.38,0 2.38,-4.77 " />
+</g>
+</g>
+</g>
+<g transform="matrix(5.6 0 0 5.6 -611.01 593.26)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 -0.38 26.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,232,157); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="30.95,-9.52 30.95,-14.28 26.19,-14.28 21.43,-14.28 21.43,-19.05 16.67,-19.05 11.9,-19.05 7.14,-19.05 2.38,-19.05 -2.38,-19.05 -7.14,-19.05 -11.9,-19.05 -16.67,-19.05 -21.43,-19.05 -21.43,-14.28 -26.19,-14.28 -30.95,-14.28 -30.95,-9.52 -35.71,-9.52 -35.71,-4.76 -35.71,0 -35.71,4.76 -35.71,9.53 -30.95,9.53 -30.95,14.29 -26.19,14.29 -26.19,19.05 -21.43,19.05 -16.67,19.05 -11.9,19.05 -7.14,19.05 -2.38,19.05 2.38,19.05 7.14,19.05 11.9,19.05 16.67,19.05 21.43,19.05 26.19,19.05 26.19,14.29 30.95,14.29 30.95,9.53 35.71,9.53 35.71,4.76 35.71,0 35.71,-4.76 35.71,-9.52 30.95,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 -30.95 -17.02)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.77 -2.38,9.52 2.38,9.52 2.38,4.77 2.38,0 2.38,-4.77 2.38,-9.53 -2.38,-9.53 -2.38,-4.77 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -28.92)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 -28.93)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -33.69)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-9.52,2.38 -9.52,7.14 -4.76,7.14 -4.76,2.38 -4.76,-2.38 0,-2.38 4.76,-2.38 4.76,2.38 4.76,7.14 9.52,7.14 9.52,2.38 9.52,-2.38 9.52,-7.14 4.76,-7.14 0,-7.14 -4.76,-7.14 -9.52,-7.14 -9.52,-2.38 -9.52,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 9.17)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(183,130,72); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.77,-11.91 0.01,-11.91 -4.76,-11.91 -4.76,-7.15 -9.53,-7.15 -14.29,-7.15 -19.05,-7.15 -19.05,-2.38 -19.05,2.38 -19.05,7.14 -19.05,11.91 -14.29,11.91 -9.53,11.91 -4.76,11.91 0.01,11.91 0.01,7.14 0.01,2.38 0.01,-2.38 4.77,-2.38 9.52,-2.38 9.52,2.38 9.52,7.14 9.52,11.91 14.28,11.91 19.05,11.91 19.05,7.14 19.05,2.38 19.05,-2.38 19.05,-7.15 14.28,-7.15 14.28,-11.91 9.52,-11.91 4.77,-11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -16.66 -0.36)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -5.11)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 4.76,-2.38 0,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -19.4)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(183,130,72); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="26.19,2.38 26.19,-2.39 26.19,-7.14 26.19,-11.91 21.43,-11.91 21.43,-7.14 16.66,-7.14 16.66,-2.39 11.9,-2.39 7.14,-2.39 2.38,-2.39 -2.38,-2.39 -7.14,-2.39 -11.91,-2.39 -11.91,-7.14 -16.67,-7.14 -21.43,-7.14 -26.19,-7.14 -26.19,-2.39 -26.19,2.38 -26.19,7.15 -26.19,11.91 -21.43,11.91 -16.67,11.91 -11.91,11.91 -7.14,11.91 -7.14,7.15 -2.38,7.15 2.38,7.15 7.14,7.15 11.9,7.15 11.9,11.91 16.66,11.91 21.43,11.91 26.19,11.91 26.19,7.15 26.19,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 9.17)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-7.15 -2.38,-2.38 -2.38,2.38 -2.38,7.14 -2.38,11.91 2.38,11.91 7.14,11.91 7.14,7.14 7.14,2.38 7.14,-2.38 7.14,-7.15 7.14,-11.91 2.38,-11.91 -2.38,-11.91 -7.15,-11.91 -7.15,-7.15 -2.38,-7.15 " />
+</g>
+		<g transform="matrix(1 0 0 1 28.58 -17.02)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-9.53 -4.76,-4.77 -4.76,0 -4.76,4.77 -4.76,9.52 0,9.52 4.76,9.52 4.76,4.77 4.76,0 4.76,-4.77 4.76,-9.53 0,-9.53 -4.76,-9.53 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 2.03)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="33.34,-28.57 33.34,-23.81 33.34,-19.04 33.34,-14.28 33.34,-9.52 28.58,-9.52 23.81,-9.52 19.05,-9.52 14.29,-9.52 9.52,-9.52 9.52,-4.76 14.29,-4.76 19.05,-4.76 23.81,-4.76 23.81,0 23.81,4.76 23.81,9.53 23.81,14.29 23.81,19.05 19.05,19.05 14.29,19.05 9.52,19.05 4.77,19.05 4.77,14.29 4.77,9.53 4.77,4.76 0.01,4.76 -4.75,4.76 -4.75,9.53 -4.75,14.29 -4.75,19.05 -9.52,19.05 -14.29,19.05 -19.04,19.05 -23.8,19.05 -23.8,14.29 -23.8,9.53 -23.8,4.76 -23.8,0 -23.8,-4.76 -19.04,-4.76 -14.29,-4.76 -9.52,-4.76 -9.52,-9.52 -14.29,-9.52 -19.04,-9.52 -23.8,-9.52 -28.56,-9.52 -33.33,-9.52 -33.33,-14.28 -33.33,-19.04 -33.33,-23.81 -33.33,-28.57 -38.09,-28.57 -38.09,-23.81 -38.09,-19.04 -38.09,-14.28 -38.09,-9.52 -38.09,-4.76 -33.33,-4.76 -28.56,-4.76 -28.56,0 -28.56,4.76 -28.56,9.53 -28.56,14.29 -28.56,19.05 -33.33,19.05 -33.33,23.81 -28.56,23.81 -28.56,28.57 -23.8,28.57 -19.04,28.57 -14.29,28.57 -9.52,28.57 -4.75,28.57 0.01,28.57 4.77,28.57 9.52,28.57 14.29,28.57 19.05,28.57 23.81,28.57 28.58,28.57 28.58,23.81 33.34,23.81 33.34,19.05 28.58,19.05 28.58,14.29 28.58,9.53 28.58,4.76 28.58,0 28.58,-4.76 33.34,-4.76 38.09,-4.76 38.09,-9.52 38.09,-14.28 38.09,-19.04 38.09,-23.81 38.09,-28.57 33.34,-28.57 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -9.87)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,-2.38 0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 4.76,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -43.21)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 0.01 -31.31)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-23.81,4.76 -23.81,0 -19.05,0 -14.29,0 -14.29,4.76 -14.29,9.52 -9.52,9.52 -4.76,9.52 0,9.52 4.76,9.52 9.52,9.52 14.28,9.52 14.28,4.76 14.28,0 19.05,0 23.81,0 23.81,4.76 28.57,4.76 33.33,4.76 33.33,0 28.57,0 28.57,-4.76 23.81,-4.76 19.05,-4.76 14.28,-4.76 14.28,-9.52 9.52,-9.52 9.52,-4.76 9.52,0 9.52,4.76 4.76,4.76 4.76,0 4.76,-4.76 0,-4.76 -4.76,-4.76 -4.76,0 -4.76,4.76 -9.52,4.76 -9.52,0 -9.52,-4.76 -9.52,-9.52 -14.29,-9.52 -14.29,-4.76 -19.05,-4.76 -23.81,-4.76 -28.57,-4.76 -28.57,0 -33.33,0 -33.33,4.76 -28.57,4.76 -23.81,4.76 " />
+</g>
+</g>
+</g>
+<g transform="matrix(5.27 0 0 5.27 -626.13 520.12)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 -2.76 39.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,232,157); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="30.95,-9.52 30.95,-14.28 26.19,-14.28 21.43,-14.28 21.43,-19.05 16.67,-19.05 11.9,-19.05 7.14,-19.05 2.38,-19.05 -2.38,-19.05 -7.14,-19.05 -11.9,-19.05 -16.67,-19.05 -21.43,-19.05 -21.43,-14.28 -26.19,-14.28 -30.95,-14.28 -30.95,-9.52 -35.71,-9.52 -35.71,-4.76 -35.71,0 -35.71,4.76 -35.71,9.53 -30.95,9.53 -30.95,14.29 -26.19,14.29 -26.19,19.05 -21.43,19.05 -16.67,19.05 -11.9,19.05 -7.14,19.05 -2.38,19.05 2.38,19.05 7.14,19.05 11.9,19.05 16.67,19.05 21.43,19.05 26.19,19.05 26.19,14.29 30.95,14.29 30.95,9.53 35.71,9.53 35.71,4.76 35.71,0 35.71,-4.76 35.71,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 -5.5 8.5)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(192,43,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  transform=" translate(-49.26, -71.58)" d="M 83.06 55.99 C 83.06 74.66 49.260000000000005 120.97 49.260000000000005 120.97 C 49.260000000000005 120.97 15.460000000000008 74.66 15.460000000000008 55.989999999999995 C 15.460000000000008 37.31999999999999 30.59000000000001 22.189999999999998 49.260000000000005 22.189999999999998 C 67.93 22.189999999999998 83.06 37.32 83.06 55.99 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -5.5 -7.64)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25.05" />
+</g>
+		<g transform="matrix(1 0 0 1 -6.25 -7.64)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(252,255,65); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  transform=" translate(-48.51, -55.44)" d="M 60.77 67.96 L 53.46 66.17999999999999 C 52.67 65.99 51.83 66.19999999999999 51.22 66.74 L 45.61 71.75999999999999 C 44.08 73.13 41.65 72.14999999999999 41.49 70.1 L 40.92 62.589999999999996 C 40.86 61.779999999999994 40.4 61.05 39.7 60.63999999999999 L 33.190000000000005 56.849999999999994 C 31.420000000000005 55.81999999999999 31.600000000000005 53.199999999999996 33.49 52.419999999999995 L 40.45 49.559999999999995 C 41.2 49.24999999999999 41.760000000000005 48.589999999999996 41.93 47.78999999999999 L 43.52 40.42999999999999 C 43.95 38.419999999999995 46.5 37.78999999999999 47.830000000000005 39.349999999999994 L 52.7 45.089999999999996 C 53.230000000000004 45.709999999999994 54.03 46.029999999999994 54.84 45.949999999999996 L 62.330000000000005 45.19 C 64.37 44.98 65.76 47.21 64.69000000000001 48.949999999999996 L 60.74000000000001 55.36 C 60.31000000000001 56.05 60.25000000000001 56.91 60.58000000000001 57.66 L 63.62000000000001 64.55 C 64.45 66.43 62.77 68.44 60.77 67.96 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -8.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,43,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  transform=" translate(-50, -54.58)" d="M 80.95 42.68 L 80.95 37.91 L 80.95 33.15 L 80.95 28.39 L 76.19 28.39 L 76.19 23.630000000000003 L 76.19 18.870000000000005 L 71.42999999999999 18.870000000000005 L 71.42999999999999 14.1 L 66.66999999999999 14.1 L 66.66999999999999 9.34 L 61.9 9.34 L 57.14 9.34 L 52.38 9.34 L 47.620000000000005 9.34 L 42.86000000000001 9.34 L 38.1 9.34 L 33.33 9.34 L 33.33 14.1 L 28.57 14.1 L 28.57 18.869999999999997 L 23.810000000000002 18.869999999999997 L 23.810000000000002 23.629999999999995 L 23.810000000000002 28.389999999999993 L 19.050000000000004 28.389999999999993 L 19.050000000000004 33.14999999999999 L 19.050000000000004 37.90999999999999 L 19.050000000000004 42.67999999999999 L 19.050000000000004 47.43999999999999 L 19.050000000000004 52.19999999999999 L 23.810000000000002 52.19999999999999 L 23.810000000000002 56.95999999999999 L 23.810000000000002 61.719999999999985 L 28.57 61.719999999999985 L 28.57 66.47999999999999 L 28.57 71.24999999999999 L 33.33 71.24999999999999 L 33.33 76.00999999999999 L 38.099999999999994 76.00999999999999 L 38.099999999999994 80.77 L 42.85999999999999 80.77 L 42.85999999999999 85.53 L 42.85999999999999 90.29 L 47.61999999999999 90.29 L 47.61999999999999 95.06 L 47.61999999999999 99.82000000000001 L 52.37999999999999 99.82000000000001 L 52.37999999999999 95.06 L 52.37999999999999 90.29 L 57.139999999999986 90.29 L 57.139999999999986 85.53 L 57.139999999999986 80.77 L 61.899999999999984 80.77 L 61.899999999999984 76.00999999999999 L 66.66999999999999 76.00999999999999 L 66.66999999999999 71.24999999999999 L 71.42999999999999 71.24999999999999 L 71.42999999999999 66.47999999999999 L 71.42999999999999 61.71999999999999 L 76.19 61.71999999999999 L 76.19 56.959999999999994 L 76.19 52.2 L 80.95 52.2 L 80.95 47.440000000000005 L 80.95 42.68 z M 28.57 23.63 L 33.33 23.63 L 33.33 18.869999999999997 L 38.099999999999994 18.869999999999997 L 38.099999999999994 14.1 L 42.85999999999999 14.1 L 47.61999999999999 14.1 L 52.37999999999999 14.1 L 57.139999999999986 14.1 L 61.899999999999984 14.1 L 61.899999999999984 18.869999999999997 L 66.66999999999999 18.869999999999997 L 66.66999999999999 23.629999999999995 L 71.42999999999999 23.629999999999995 L 71.42999999999999 28.389999999999993 L 71.42999999999999 33.14999999999999 L 71.42999999999999 37.90999999999999 L 71.42999999999999 42.67999999999999 L 71.42999999999999 47.43999999999999 L 66.66999999999999 47.43999999999999 L 66.66999999999999 52.19999999999999 L 61.9 52.19999999999999 L 61.9 56.95999999999999 L 57.14 56.95999999999999 L 52.38 56.95999999999999 L 47.620000000000005 56.95999999999999 L 42.86000000000001 56.95999999999999 L 38.1 56.95999999999999 L 38.1 52.2 L 33.33 52.2 L 33.33 47.440000000000005 L 28.57 47.440000000000005 L 28.57 42.68000000000001 L 28.57 37.91000000000001 L 28.57 33.15000000000001 L 28.57 28.390000000000015 L 28.57 23.63 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 9.53 -13.26)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -8.5)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 11.9,-2.38 7.14,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -13.26)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -15.64)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="7.14,0 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -7.14,0 -11.9,0 -11.9,4.76 -7.14,4.76 -2.38,4.76 2.38,4.76 7.14,4.76 11.9,4.76 11.9,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -27.54)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,245,21); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="7.14,2.38 7.14,-2.38 7.14,-7.14 2.38,-7.14 -2.38,-7.14 -7.14,-7.14 -7.14,-2.38 -7.14,2.38 -7.14,7.15 -2.38,7.15 -2.38,2.38 -2.38,-2.38 2.38,-2.38 2.38,2.38 2.38,7.15 7.14,7.15 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,-7.14 -2.38,-2.38 -2.38,2.38 -2.38,7.15 -2.38,11.91 2.39,11.91 2.39,7.15 2.39,2.38 2.39,-2.38 2.39,-7.14 2.39,-11.9 -2.38,-11.9 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -25.16)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -2.38,4.77 2.38,4.77 2.38,-0.01 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.04 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.39,-2.38 -2.39,2.38 -2.39,7.15 -2.39,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.39,-11.9 -2.39,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,11.91 -2.38,7.15 -7.14,7.15 -7.14,2.38 -7.14,-2.38 -7.14,-7.14 -2.38,-7.14 2.38,-7.14 7.14,-7.14 7.14,-2.38 7.14,2.38 7.14,7.15 2.38,7.15 2.38,11.91 7.14,11.91 11.9,11.91 11.9,7.15 11.9,2.38 11.9,-2.38 11.9,-7.14 11.9,-11.9 7.14,-11.9 2.38,-11.9 -2.38,-11.9 -7.14,-11.9 -11.9,-11.9 -11.9,-7.14 -11.9,-2.38 -11.9,2.38 -11.9,7.15 -11.9,11.91 -7.14,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -41.83)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,2.38 -2.38,7.15 -2.38,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.38,-11.9 -2.38,-7.14 -2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -2.38,2.38 -2.38,7.15 -2.38,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.38,-11.9 -2.38,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -41.83)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 9.53 -41.83)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -46.6)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,2.39 2.38,2.39 7.14,2.39 11.9,2.39 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.39 -7.14,2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -34.69)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="30.95,-4.76 30.95,-9.52 30.95,-14.29 26.19,-14.29 26.19,-19.05 21.43,-19.05 21.43,-23.81 16.67,-23.81 11.9,-23.81 7.14,-23.81 2.38,-23.81 -2.38,-23.81 -7.14,-23.81 -11.9,-23.81 -16.67,-23.81 -21.43,-23.81 -21.43,-19.05 -26.19,-19.05 -26.19,-14.29 -30.95,-14.29 -30.95,-9.52 -30.95,-4.76 -35.71,-4.76 -35.71,0 -35.71,4.76 -35.71,9.52 -35.71,14.29 -35.71,19.05 -35.71,23.81 -30.95,23.81 -30.95,19.05 -30.95,14.29 -30.95,9.52 -30.95,4.76 -30.95,0 -26.19,0 -26.19,-4.76 -26.19,-9.52 -21.43,-9.52 -21.43,-14.29 -16.67,-14.29 -16.67,-19.05 -11.9,-19.05 -7.14,-19.05 -2.38,-19.05 2.38,-19.05 7.14,-19.05 11.9,-19.05 16.67,-19.05 16.67,-14.29 21.43,-14.29 21.43,-9.52 26.19,-9.52 26.19,-4.76 26.19,0 30.95,0 30.95,4.76 30.95,9.52 30.95,14.29 30.95,19.05 30.95,23.81 35.71,23.81 35.71,19.05 35.71,14.29 35.71,9.52 35.71,4.76 35.71,0 35.71,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -6.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -33.33 -6.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 19.05 3.41)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.77 2.38,4.77 2.38,0 2.38,-4.77 -2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -28.57 3.41)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,0 -2.38,4.77 2.38,4.77 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 10.55)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 9.53 15.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 10.55)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 15.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -14.28 22.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 22.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -9.52 31.98)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 31.98)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.77 -2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 39.12)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 0.01 39.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,91,9); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-2.38 -2.38,-2.38 -7.15,-2.38 -11.91,-2.38 -11.91,2.38 -7.15,2.38 -2.38,2.38 2.38,2.38 7.13,2.38 11.91,2.38 11.91,-2.38 7.13,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.8 34.36)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,91,9); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="7.15,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.15,2.38 11.91,2.38 11.91,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 19.04 -1.36)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,91,9); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="11.91,23.81 11.91,19.05 11.91,14.29 11.91,9.53 11.91,4.76 11.91,0 11.91,-4.76 11.91,-9.52 11.91,-14.28 11.91,-19.04 7.15,-19.04 7.15,-23.81 7.15,-28.57 2.39,-28.57 2.39,-33.33 -2.37,-33.33 -2.37,-38.09 -7.13,-38.09 -11.9,-38.09 -11.9,-33.33 -7.13,-33.33 -7.13,-28.57 -2.37,-28.57 -2.37,-23.81 -2.37,-19.04 2.39,-19.04 2.39,-14.28 2.39,-9.52 2.39,-4.76 2.39,0 2.39,4.76 2.39,9.53 2.39,14.29 2.39,19.05 2.39,23.81 2.39,28.57 2.39,33.34 -2.37,33.34 -7.13,33.34 -7.13,38.09 -2.37,38.09 2.39,38.09 7.15,38.09 11.91,38.09 11.91,33.34 11.91,28.57 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -41.83)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,91,9); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 -3.73)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,149,21); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-47.62, -59.35)" d="M 71.43 95.06 L 76.19000000000001 95.06 L 76.19000000000001 90.29 L 76.19000000000001 85.53 L 76.19000000000001 80.77 L 76.19000000000001 76.00999999999999 L 76.19000000000001 71.24999999999999 L 76.19000000000001 66.47999999999999 L 76.19000000000001 61.71999999999999 L 76.19000000000001 56.959999999999994 L 76.19000000000001 52.2 L 76.19000000000001 47.440000000000005 L 76.19000000000001 42.68000000000001 L 71.43 42.68000000000001 L 71.43 37.91000000000001 L 71.43 33.15000000000001 L 66.67 33.15000000000001 L 66.67 37.91000000000001 L 66.67 42.68000000000001 L 66.67 47.440000000000005 L 61.9 47.440000000000005 L 61.9 42.68000000000001 L 61.9 37.91000000000001 L 61.9 33.15000000000001 L 66.67 33.15000000000001 L 66.67 28.390000000000015 L 61.9 28.390000000000015 L 61.9 23.630000000000017 L 57.14 23.630000000000017 L 52.38 23.630000000000017 L 52.38 18.87000000000002 L 47.620000000000005 18.87000000000002 L 42.86000000000001 18.87000000000002 L 42.86000000000001 23.630000000000017 L 38.1 23.630000000000017 L 33.33 23.630000000000017 L 33.33 28.390000000000015 L 28.57 28.390000000000015 L 28.57 33.15000000000001 L 23.810000000000002 33.15000000000001 L 23.810000000000002 37.91000000000001 L 23.810000000000002 42.68000000000001 L 19.050000000000004 42.68000000000001 L 19.050000000000004 47.440000000000005 L 19.050000000000004 52.2 L 19.050000000000004 56.96 L 19.050000000000004 61.72 L 19.050000000000004 66.48 L 19.050000000000004 71.25 L 19.050000000000004 76.01 L 19.050000000000004 80.77000000000001 L 19.050000000000004 85.53000000000002 L 19.050000000000004 90.29000000000002 L 19.050000000000004 95.06000000000002 L 23.810000000000002 95.06000000000002 L 28.57 95.06000000000002 L 33.33 95.06000000000002 L 38.099999999999994 95.06000000000002 L 42.85999999999999 95.06000000000002 L 42.85999999999999 99.82000000000002 L 47.61999999999999 99.82000000000002 L 52.37999999999999 99.82000000000002 L 57.139999999999986 99.82000000000002 L 61.899999999999984 99.82000000000002 L 66.66999999999999 99.82000000000002 L 66.66999999999999 95.06000000000002 L 71.43 95.06000000000002 z M 38.1 33.15 L 42.86 33.15 L 42.86 37.91 L 42.86 42.67999999999999 L 42.86 47.43999999999999 L 38.1 47.43999999999999 L 38.1 42.67999999999999 L 38.1 37.91 L 38.1 33.15 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 -22.78)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-2.39 -2.38,2.38 -2.38,7.14 2.39,7.14 2.39,2.38 2.39,-2.39 2.39,-7.15 -2.38,-7.15 " />
+</g>
+		<g transform="matrix(1 0 0 1 -14.28 -22.78)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,7.14 2.38,7.14 2.38,2.38 2.38,-2.39 2.38,-7.15 -2.38,-7.15 -2.38,-2.39 -2.38,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 33.34 5.79)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,-26.19 -2.39,-21.43 -2.39,-16.67 -2.39,-11.91 -2.39,-7.15 -2.39,-2.39 -2.39,2.38 -2.39,7.14 -2.39,11.9 -2.39,16.66 -2.39,21.42 -2.39,26.19 2.39,26.19 2.39,21.42 2.39,16.66 2.39,11.9 2.39,7.14 2.39,2.38 2.39,-2.39 2.39,-7.15 2.39,-11.91 2.39,-16.67 2.39,-21.43 2.39,-26.19 " />
+</g>
+		<g transform="matrix(1 0 0 1 28.57 -25.16)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,4.77 2.38,4.77 2.38,-0.01 2.38,-4.77 -2.38,-4.77 -2.38,-0.01 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -32.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 19.05 -37.07)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 11.91 -41.83)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.77,2.38 4.77,-2.38 0,-2.38 -4.77,-2.38 -4.77,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -46.6)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.39 4.76,2.39 9.52,2.39 9.52,-2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.39 -4.76,2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 -16.66 -41.83)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.77,2.38 4.77,-2.38 0.01,-2.38 -4.77,-2.38 -4.77,2.38 0.01,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -37.07)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -28.57 -32.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -33.33 -25.16)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-0.01 2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -2.38,4.77 2.38,4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -38.09 5.79)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,16.66 2.38,11.9 2.38,7.14 2.38,2.38 2.38,-2.39 2.38,-7.15 2.38,-11.91 2.38,-16.67 2.38,-21.43 2.38,-26.19 -2.38,-26.19 -2.38,-21.43 -2.38,-16.67 -2.38,-11.91 -2.38,-7.15 -2.38,-2.39 -2.38,2.38 -2.38,7.14 -2.38,11.9 -2.38,16.66 -2.38,21.42 -2.38,26.19 2.38,26.19 2.38,21.42 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 18.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="33.34,11.91 33.34,7.14 28.56,7.14 23.81,7.14 23.81,2.39 23.81,-2.39 23.81,-7.14 23.81,-11.91 23.81,-16.67 23.81,-21.42 23.81,-26.19 23.81,-30.95 19.05,-30.95 14.29,-30.95 14.29,-26.19 19.05,-26.19 19.05,-21.42 19.05,-16.67 19.05,-11.91 19.05,-7.14 19.05,-2.39 19.05,2.39 19.05,7.14 19.05,11.91 14.29,11.91 14.29,16.67 9.53,16.67 9.53,21.42 4.76,21.42 4.76,26.19 0,26.19 -4.76,26.19 -9.52,26.19 -14.28,26.19 -19.04,26.19 -19.04,21.42 -23.81,21.42 -23.81,16.67 -28.57,16.67 -28.57,11.91 -33.33,11.91 -33.33,7.14 -33.33,2.39 -33.33,-2.39 -33.33,-7.14 -33.33,-11.91 -33.33,-16.67 -33.33,-21.42 -33.33,-26.19 -28.57,-26.19 -28.57,-30.95 -33.33,-30.95 -38.09,-30.95 -38.09,-26.19 -38.09,-21.42 -38.09,-16.67 -38.09,-11.91 -38.09,-7.14 -38.09,-2.39 -38.09,2.39 -38.09,7.14 -38.09,11.91 -38.09,16.67 -33.33,16.67 -33.33,21.42 -28.57,21.42 -28.57,26.19 -23.81,26.19 -23.81,30.95 -19.04,30.95 -14.28,30.95 -9.52,30.95 -4.76,30.95 0,30.95 4.76,30.95 9.53,30.95 9.53,26.19 14.29,26.19 19.05,26.19 23.81,26.19 28.56,26.19 28.56,21.42 33.34,21.42 38.09,21.42 38.09,16.67 38.09,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -30.95 -19.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,7.14 4.76,2.38 0,2.38 0,-2.38 0,-7.14 -4.76,-7.14 -4.76,-2.38 -4.76,2.38 -4.76,7.14 0,7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -26.19 13.79)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,11.9 4.76,7.14 4.76,2.37 4.76,-2.39 4.76,-7.15 4.76,-11.91 4.76,-16.67 0,-16.67 0,-21.43 -4.76,-21.43 -4.76,-16.67 -4.76,-11.91 -4.76,-7.15 -4.76,-2.39 -4.76,2.37 -4.76,7.14 -4.76,11.9 -4.76,16.66 0,16.66 0,21.42 4.76,21.42 4.76,16.66 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 23.31)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,11.9 4.76,7.14 4.76,2.38 4.76,-2.38 4.76,-7.15 4.76,-11.91 4.76,-16.67 4.76,-21.43 0,-21.43 -4.76,-21.43 -4.76,-16.67 -4.76,-11.91 -4.76,-7.15 -4.76,-2.38 -4.76,2.38 -4.76,7.14 -4.76,11.9 -4.76,16.66 -4.76,21.43 0,21.43 4.76,21.43 4.76,16.66 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 -7.64)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,4.77 4.76,4.77 4.76,0 4.76,-4.77 0,-4.77 -4.76,-4.77 -4.76,0 -4.76,4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -16.66 20.93)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.77,14.28 4.77,9.52 4.77,4.76 4.77,0 4.77,-4.77 4.77,-9.53 4.77,-14.29 4.77,-19.05 4.77,-23.81 0.01,-23.81 -4.77,-23.81 -4.77,-19.05 -4.77,-14.29 -4.77,-9.53 -4.77,-4.77 -4.77,0 -4.77,4.76 -4.77,9.52 -4.77,14.28 -4.77,19.04 0.01,19.04 0.01,23.81 4.77,23.81 4.77,19.04 " />
+</g>
+		<g transform="matrix(1 0 0 1 -9.52 -19.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-21.43,-2.38 -21.43,2.38 -16.67,2.38 -16.67,7.14 -11.91,7.14 -11.91,11.91 -7.14,11.91 -2.38,11.91 -2.38,7.14 2.38,7.14 7.14,7.14 7.14,11.91 11.9,11.91 16.66,11.91 16.66,7.14 21.43,7.14 21.43,2.38 16.66,2.38 11.9,2.38 7.14,2.38 2.38,2.38 -2.38,2.38 -7.14,2.38 -11.91,2.38 -11.91,-2.38 -16.67,-2.38 -16.67,-7.14 -11.91,-7.14 -11.91,-11.9 -16.67,-11.9 -21.43,-11.9 -21.43,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -10.02)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 20.93)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,9.52 2.38,4.76 2.38,0 2.38,-4.77 2.38,-9.53 2.38,-14.29 2.38,-19.05 2.38,-23.81 -2.38,-23.81 -2.38,-19.05 -2.38,-14.29 -2.38,-9.53 -2.38,-4.77 -2.38,0 -2.38,4.76 -2.38,9.52 -2.38,14.28 -2.38,19.04 -2.38,23.81 2.38,23.81 2.38,19.04 2.38,14.28 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 -19.55)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 -26.69)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-4.76,-4.76 -4.76,0 0,0 0,4.76 4.76,4.76 4.76,0 4.76,-4.76 0,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -33.84)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-11.9,2.39 -7.14,2.39 -2.38,2.39 2.38,2.39 7.14,2.39 11.9,2.39 16.67,2.39 16.67,-2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -16.67,-2.38 -16.67,2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 23.31)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,11.9 2.38,7.14 2.38,2.38 2.38,-2.38 2.38,-7.15 2.38,-11.91 2.38,-16.67 2.38,-21.43 -2.38,-21.43 -2.38,-16.67 -2.38,-11.91 -2.38,-7.15 -2.38,-2.38 -2.38,2.38 -2.38,7.14 -2.38,11.9 -2.38,16.66 -2.38,21.43 2.38,21.43 2.38,16.66 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -5.26)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 13.79)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,117,54); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-4.76,-16.67 -4.76,-11.91 -4.76,-7.15 -4.76,-2.39 -4.76,2.37 -4.76,7.14 -4.76,11.9 -4.76,16.66 -4.76,21.42 0,21.42 0,16.66 4.76,16.66 4.76,11.9 4.76,7.14 4.76,2.37 4.76,-2.39 4.76,-7.15 4.76,-11.91 4.76,-16.67 4.76,-21.43 0,-21.43 0,-16.67 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 18.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.39,7.14 2.39,2.39 2.39,-2.39 2.39,-7.14 2.39,-11.91 2.39,-16.67 2.39,-21.42 -2.38,-21.42 -2.38,-16.67 -2.38,-11.91 -2.38,-7.14 -2.38,-2.39 -2.38,2.39 -2.38,7.14 -2.38,11.91 -2.38,16.67 -2.38,21.42 2.39,21.42 2.39,16.67 2.39,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.53 -10.02)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.385" rx="0" ry="0" width="4.77" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 19.05 -17.16)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,117,54); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="7.14,-4.77 7.14,-9.52 2.38,-9.52 2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -7.14,-0.01 -7.14,4.76 -7.14,9.52 -2.38,9.52 -2.38,4.76 2.38,4.76 7.14,4.76 7.14,-0.01 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -24.31)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="21.43,2.38 21.43,-2.38 16.67,-2.38 16.67,-7.14 11.9,-7.14 7.14,-7.14 2.38,-7.14 -2.38,-7.14 -7.14,-7.14 -11.9,-7.14 -16.67,-7.14 -16.67,-2.38 -21.43,-2.38 -21.43,2.38 -16.67,2.38 -16.67,7.14 -11.9,7.14 -7.14,7.14 -2.38,7.14 2.38,7.14 7.14,7.14 11.9,7.14 16.67,7.14 16.67,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -38.6)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 16.67,2.38 16.67,-2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -16.67,-2.38 -16.67,2.38 -11.9,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 -33.84)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,2.39 4.76,2.39 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 -26.19 -33.84)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,2.39 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.39 0,2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 26.19 -21.93)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,-4.76 0,0 0,4.76 0,9.52 4.76,9.52 4.76,4.76 4.76,0 4.76,-4.76 4.76,-9.52 0,-9.52 -4.76,-9.52 -4.76,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -35.71 -21.93)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,0 0,-4.76 4.76,-4.76 4.76,-9.52 0,-9.52 -4.76,-9.52 -4.76,-4.76 -4.76,0 -4.76,4.76 -4.76,9.52 0,9.52 0,4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 -5.26)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -7.14,-2.38 -7.14,2.38 -2.38,2.38 2.39,2.38 7.15,2.38 7.15,-2.38 2.39,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -0.5)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -7.14,-2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.04 -5.26)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.39,2.38 2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.39,-2.38 -7.15,-2.38 -7.15,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -33.33 -4.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.38,0.01 -2.38,4.77 -2.38,9.52 2.38,9.52 2.38,4.77 2.38,0.01 2.38,-4.76 2.38,-9.52 -2.38,-9.52 -2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -21.43 -16.02)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.28 -16.02)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -20.78)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,166,118); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-9.52,2.38 -9.52,7.14 -4.76,7.14 -4.76,2.38 -4.76,-2.38 0,-2.38 4.76,-2.38 4.76,2.38 4.76,7.14 9.52,7.14 9.52,2.38 9.52,-2.38 9.52,-7.14 4.76,-7.14 0,-7.14 -4.76,-7.14 -9.52,-7.14 -9.52,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.15 22.08)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(183,130,72); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.77,-11.91 0.01,-11.91 -4.75,-11.91 -4.75,-7.14 -9.52,-7.14 -14.28,-7.14 -19.04,-7.14 -19.04,-2.39 -19.04,2.39 -19.04,7.14 -19.04,11.91 -14.28,11.91 -9.52,11.91 -4.75,11.91 0.01,11.91 0.01,7.14 0.01,2.39 0.01,-2.39 4.77,-2.39 9.53,-2.39 9.53,2.39 9.53,7.14 9.53,11.91 14.29,11.91 19.05,11.91 19.05,7.14 19.05,2.39 19.05,-2.39 19.05,-7.14 14.29,-7.14 14.29,-11.91 9.53,-11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.04 12.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.39,-2.38 -7.15,-2.38 -7.15,2.38 -2.39,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 7.79)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 4.76,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -6.5)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(183,130,72); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="26.19,2.39 26.19,-2.38 26.19,-7.14 26.19,-11.9 21.43,-11.9 21.43,-7.14 16.66,-7.14 16.66,-2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.91,-2.38 -11.91,-7.14 -16.67,-7.14 -21.43,-7.14 -26.19,-7.14 -26.19,-2.38 -26.19,2.39 -26.19,7.15 -26.19,11.91 -21.43,11.91 -16.67,11.91 -11.91,11.91 -7.14,11.91 -7.14,7.15 -2.38,7.15 2.38,7.15 7.14,7.15 11.9,7.15 11.9,11.91 16.66,11.91 21.43,11.91 26.19,11.91 26.19,7.15 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 22.08)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-2.39,-7.14 -2.39,-2.39 -2.39,2.39 -2.39,7.14 -2.39,11.91 2.39,11.91 7.14,11.91 7.14,7.14 7.14,2.39 7.14,-2.39 7.14,-7.14 7.14,-11.91 2.39,-11.91 -2.39,-11.91 -7.15,-11.91 -7.15,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 26.19 -4.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(94,58,15); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-4.76,-9.52 -4.76,-4.76 -4.76,0.01 -4.76,4.77 -4.76,9.52 0,9.52 4.76,9.52 4.76,4.77 4.76,0.01 4.76,-4.76 4.76,-9.52 0,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 14.93)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="33.33,-28.57 33.33,-23.81 33.33,-19.04 33.33,-14.28 33.33,-9.52 28.58,-9.52 23.81,-9.52 19.06,-9.52 14.28,-9.52 9.52,-9.52 9.52,-4.76 14.28,-4.76 19.06,-4.76 23.81,-4.76 23.81,0 23.81,4.76 23.81,9.53 23.81,14.29 23.81,19.05 19.06,19.05 14.28,19.05 9.52,19.05 4.77,19.05 4.77,14.29 4.77,9.53 4.77,4.76 0.01,4.76 -4.76,4.76 -4.76,9.53 -4.76,14.29 -4.76,19.05 -9.52,19.05 -14.28,19.05 -19.05,19.05 -23.8,19.05 -23.8,14.29 -23.8,9.53 -23.8,4.76 -23.8,0 -23.8,-4.76 -19.05,-4.76 -14.28,-4.76 -9.52,-4.76 -9.52,-9.52 -14.28,-9.52 -19.05,-9.52 -23.8,-9.52 -28.57,-9.52 -33.33,-9.52 -33.33,-14.28 -33.33,-19.04 -33.33,-23.81 -33.33,-28.57 -38.09,-28.57 -38.09,-23.81 -38.09,-19.04 -38.09,-14.28 -38.09,-9.52 -38.09,-4.76 -33.33,-4.76 -28.57,-4.76 -28.57,0 -28.57,4.76 -28.57,9.53 -28.57,14.29 -28.57,19.05 -33.33,19.05 -33.33,23.81 -28.57,23.81 -28.57,28.57 -23.8,28.57 -19.05,28.57 -14.28,28.57 -9.52,28.57 -4.76,28.57 0.01,28.57 4.77,28.57 9.52,28.57 14.28,28.57 19.06,28.57 23.81,28.57 28.58,28.57 28.58,23.81 33.33,23.81 33.33,19.05 28.58,19.05 28.58,14.29 28.58,9.53 28.58,4.76 28.58,0 28.58,-4.76 33.33,-4.76 38.09,-4.76 38.09,-9.52 38.09,-14.28 38.09,-19.04 38.09,-23.81 38.09,-28.57 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 3.03)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="4.76,-2.38 0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -30.3)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 9.52,2.38 9.52,-2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -9.52,-2.38 -9.52,2.38 -4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 -18.4)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  points="-23.81,4.76 -23.81,0 -19.05,0 -14.29,0 -14.29,4.76 -14.29,9.52 -9.52,9.52 -4.76,9.52 0,9.52 4.76,9.52 9.52,9.52 14.28,9.52 14.28,4.76 14.28,0 19.05,0 23.81,0 23.81,4.76 28.57,4.76 33.33,4.76 33.33,0 28.57,0 28.57,-4.76 23.81,-4.76 19.05,-4.76 14.28,-4.76 14.28,-9.52 9.52,-9.52 9.52,-4.76 9.52,0 9.52,4.76 4.76,4.76 4.76,0 4.76,-4.76 0,-4.76 -4.76,-4.76 -4.76,0 -4.76,4.76 -9.52,4.76 -9.52,0 -9.52,-4.76 -9.52,-9.52 -14.29,-9.52 -14.29,-4.76 -19.05,-4.76 -23.81,-4.76 -28.57,-4.76 -28.57,0 -33.33,0 -33.33,4.76 -28.57,4.76 " />
+</g>
+</g>
+</g>
+<g transform="matrix(5.27 0 0 5.27 -841.47 500.25)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 2.38 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="33.34,11.91 33.34,7.14 28.57,7.14 23.8,7.14 23.8,2.38 23.8,-2.39 23.8,-7.15 23.8,-11.91 23.8,-16.67 23.8,-21.43 23.8,-26.19 23.8,-30.96 19.05,-30.96 14.29,-30.96 14.29,-26.19 19.05,-26.19 19.05,-21.43 19.05,-16.67 19.05,-11.91 19.05,-7.15 19.05,-2.39 19.05,2.38 19.05,7.14 19.05,11.91 14.29,11.91 14.29,16.66 9.53,16.66 9.53,21.42 4.76,21.42 4.76,26.19 0,26.19 -4.76,26.19 -9.52,26.19 -14.28,26.19 -19.04,26.19 -19.04,21.42 -23.81,21.42 -23.81,16.66 -28.57,16.66 -28.57,11.91 -33.33,11.91 -33.33,7.14 -33.33,2.38 -33.33,-2.39 -33.33,-7.15 -33.33,-11.91 -33.33,-16.67 -33.33,-21.43 -33.33,-26.19 -28.57,-26.19 -28.57,-30.96 -33.33,-30.96 -38.09,-30.96 -38.09,-26.19 -38.09,-21.43 -38.09,-16.67 -38.09,-11.91 -38.09,-7.15 -38.09,-2.39 -38.09,2.38 -38.09,7.14 -38.09,11.91 -38.09,16.66 -33.33,16.66 -33.33,21.42 -28.57,21.42 -28.57,26.19 -23.81,26.19 -23.81,30.95 -19.04,30.95 -14.28,30.95 -9.52,30.95 -4.76,30.95 0,30.95 4.76,30.95 9.53,30.95 9.53,26.19 14.29,26.19 19.05,26.19 23.8,26.19 28.57,26.19 28.57,21.42 33.34,21.42 38.1,21.42 38.1,16.66 38.1,11.91 33.34,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -30.95 -23.81)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,7.14 4.76,2.38 0,2.38 0,-2.38 0,-7.14 -4.76,-7.14 -4.76,-2.38 -4.76,2.38 -4.76,7.14 0,7.14 4.76,7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -26.19 9.52)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,11.91 4.76,7.14 4.76,2.38 4.76,-2.38 4.76,-7.15 4.76,-11.91 4.76,-16.66 0,-16.66 0,-21.42 -4.76,-21.42 -4.76,-16.66 -4.76,-11.91 -4.76,-7.15 -4.76,-2.38 -4.76,2.38 -4.76,7.14 -4.76,11.91 -4.76,16.67 0,16.67 0,21.42 4.76,21.42 4.76,16.67 4.76,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,11.9 4.76,7.14 4.76,2.38 4.76,-2.38 4.76,-7.15 4.76,-11.91 4.76,-16.67 4.76,-21.43 0,-21.43 -4.76,-21.43 -4.76,-16.67 -4.76,-11.91 -4.76,-7.15 -4.76,-2.38 -4.76,2.38 -4.76,7.14 -4.76,11.9 -4.76,16.66 -4.76,21.43 0,21.43 4.76,21.43 4.76,16.66 4.76,11.9 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 -11.91)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,4.77 4.76,4.77 4.76,0.01 4.76,-4.77 0,-4.77 -4.76,-4.77 -4.76,0.01 -4.76,4.77 0,4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -16.67 16.67)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.77,14.28 4.77,9.52 4.77,4.76 4.77,0 4.77,-4.77 4.77,-9.53 4.77,-14.29 4.77,-19.05 4.77,-23.81 0,-23.81 -4.77,-23.81 -4.77,-19.05 -4.77,-14.29 -4.77,-9.53 -4.77,-4.77 -4.77,0 -4.77,4.76 -4.77,9.52 -4.77,14.28 -4.77,19.04 0,19.04 0,23.81 4.77,23.81 4.77,19.04 4.77,14.28 " />
+</g>
+		<g transform="matrix(1 0 0 1 -9.52 -23.8)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-21.43,-2.39 -21.43,2.37 -16.67,2.37 -16.67,7.13 -11.91,7.13 -11.91,11.91 -7.14,11.91 -2.38,11.91 -2.38,7.13 2.38,7.13 7.14,7.13 7.14,11.91 11.9,11.91 16.66,11.91 16.66,7.13 21.43,7.13 21.43,2.37 16.66,2.37 11.9,2.37 7.14,2.37 2.38,2.37 -2.38,2.37 -7.14,2.37 -11.91,2.37 -11.91,-2.39 -16.67,-2.39 -16.67,-7.15 -11.91,-7.15 -11.91,-11.91 -16.67,-11.91 -21.43,-11.91 -21.43,-7.15 -21.43,-2.39 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -14.29)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,173,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 16.67)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,9.52 2.38,4.76 2.38,0 2.38,-4.77 2.38,-9.53 2.38,-14.29 2.38,-19.05 2.38,-23.81 -2.38,-23.81 -2.38,-19.05 -2.38,-14.29 -2.38,-9.53 -2.38,-4.77 -2.38,0 -2.38,4.76 -2.38,9.52 -2.38,14.28 -2.38,19.04 -2.38,23.81 2.38,23.81 2.38,19.04 2.38,14.28 2.38,9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 14.29 -23.81)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 -30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-4.76 -4.76,0 0,0 0,4.76 4.76,4.76 4.76,0 4.76,-4.76 0,-4.76 -4.76,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -38.1)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(99,219,99); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-11.9,2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 16.67,2.38 16.67,-2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -16.67,-2.38 -16.67,2.38 -11.9,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,11.9 2.38,7.14 2.38,2.38 2.38,-2.38 2.38,-7.15 2.38,-11.91 2.38,-16.67 2.38,-21.43 -2.38,-21.43 -2.38,-16.67 -2.38,-11.91 -2.38,-7.15 -2.38,-2.38 -2.38,2.38 -2.38,7.14 -2.38,11.9 -2.38,16.66 -2.38,21.43 2.38,21.43 2.38,16.66 2.38,11.9 " />
+</g>
+		<g transform="matrix(1 0 0 1 0 -9.52)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 9.52)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,117,54); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.76,-16.66 -4.76,-11.91 -4.76,-7.15 -4.76,-2.38 -4.76,2.38 -4.76,7.14 -4.76,11.91 -4.76,16.67 -4.76,21.42 0,21.42 0,16.67 4.76,16.67 4.76,11.91 4.76,7.14 4.76,2.38 4.76,-2.38 4.76,-7.15 4.76,-11.91 4.76,-16.66 4.76,-21.42 0,-21.42 0,-16.66 -4.76,-16.66 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,7.14 2.38,2.38 2.38,-2.39 2.38,-7.15 2.38,-11.91 2.38,-16.67 2.38,-21.43 -2.39,-21.43 -2.39,-16.67 -2.39,-11.91 -2.39,-7.15 -2.39,-2.39 -2.39,2.38 -2.39,7.14 -2.39,11.91 -2.39,16.66 -2.39,21.42 2.38,21.42 2.38,16.66 2.38,11.91 2.38,7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 -14.29)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,160,4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.385" rx="0" ry="0" width="4.77" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 19.04 -21.43)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,117,54); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="7.14,-4.77 7.14,-9.53 2.38,-9.53 2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -7.14,-0.01 -7.14,4.75 -7.14,9.53 -2.38,9.53 -2.38,4.75 2.38,4.75 7.14,4.75 7.14,-0.01 7.14,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -28.57)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="21.43,2.38 21.43,-2.38 16.67,-2.38 16.67,-7.14 11.9,-7.14 7.14,-7.14 2.38,-7.14 -2.38,-7.14 -7.14,-7.14 -11.9,-7.14 -16.67,-7.14 -16.67,-2.38 -21.43,-2.38 -21.43,2.38 -16.67,2.38 -16.67,7.14 -11.9,7.14 -7.14,7.14 -2.38,7.14 2.38,7.14 7.14,7.14 11.9,7.14 16.67,7.14 16.67,2.38 21.43,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -42.86)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 16.67,2.38 16.67,-2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -16.67,-2.38 -16.67,2.38 -11.9,2.38 -7.14,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 -38.1)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -26.19 -38.1)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,2.38 4.76,-2.38 0,-2.38 -4.76,-2.38 -4.76,2.38 0,2.38 4.76,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 26.18 -26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,-4.76 0,0 0,4.76 0,9.52 4.76,9.52 4.76,4.76 4.76,0 4.76,-4.76 4.76,-9.52 0,-9.52 -4.76,-9.52 -4.76,-4.76 0,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -35.71 -26.19)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,0 0,-4.76 4.76,-4.76 4.76,-9.52 0,-9.52 -4.76,-9.52 -4.76,-4.76 -4.76,0 -4.76,4.76 -4.76,9.52 0,9.52 0,4.76 0,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 9.52 -9.52)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,-2.38 -7.15,-2.38 -7.15,2.38 -2.39,2.38 2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.39,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -4.76 -4.76)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -7.14,-2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -19.05 -9.52)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,2.38 2.38,2.38 7.14,2.38 7.14,-2.38 2.38,-2.38 -2.39,-2.38 -7.15,-2.38 -7.15,2.38 -2.39,2.38 " />
+</g>
+</g>
+</g>
+<g transform="matrix(5.8 0 0 5.8 -705.64 586.38)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 1 39.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(244,232,157); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="30.95,-9.52 30.95,-14.28 26.19,-14.28 21.43,-14.28 21.43,-19.05 16.67,-19.05 11.9,-19.05 7.14,-19.05 2.38,-19.05 -2.38,-19.05 -7.14,-19.05 -11.9,-19.05 -16.67,-19.05 -21.43,-19.05 -21.43,-14.28 -26.19,-14.28 -30.95,-14.28 -30.95,-9.52 -35.71,-9.52 -35.71,-4.76 -35.71,0 -35.71,4.76 -35.71,9.53 -30.95,9.53 -30.95,14.29 -26.19,14.29 -26.19,19.05 -21.43,19.05 -16.67,19.05 -11.9,19.05 -7.14,19.05 -2.38,19.05 2.38,19.05 7.14,19.05 11.9,19.05 16.67,19.05 21.43,19.05 26.19,19.05 26.19,14.29 30.95,14.29 30.95,9.53 35.71,9.53 35.71,4.76 35.71,0 35.71,-4.76 35.71,-9.52 30.95,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 -0.97 -8.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,43,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50.03, -54.58)" d="M 81 42.68 L 81 28.39 L 76.19 28.39 L 76.19 18.87 L 71.43 18.87 L 71.43 14.1 L 66.67 14.1 L 66.67 9.34 L 33.33 9.34 L 33.33 14.1 L 28.57 14.1 L 28.57 18.869999999999997 L 23.81 18.869999999999997 L 23.81 28.389999999999997 L 19.05 28.389999999999997 L 19.05 52.2 L 23.810000000000002 52.2 L 23.810000000000002 61.72 L 28.57 61.72 L 28.57 71.25 L 33.33 71.25 L 33.33 76 L 38.1 76 L 38.1 80.76 L 42.86 80.76 L 42.86 90.28 L 47.62 90.28 L 47.62 99.81 L 52.379999999999995 99.81 L 52.379999999999995 90.29 L 57.13999999999999 90.29 L 57.13999999999999 80.77 L 61.9 80.77 L 61.9 76 L 66.67 76 L 66.67 71.25 L 71.43 71.25 L 71.43 61.72 L 76.19000000000001 61.72 L 76.19000000000001 52.2 L 81 52.2 L 81 42.68 Z M 28.619999999999997 23.68 L 33.379999999999995 23.68 L 33.379999999999995 18.87 L 38.1 18.87 L 38.1 14.1 L 61.9 14.1 L 61.9 18.869999999999997 L 66.67 18.869999999999997 L 66.67 23.629999999999995 L 71.43 23.629999999999995 L 71.43 47.44 L 66.67 47.44 L 66.67 52.2 L 61.9 52.2 L 61.9 57 L 38.1 57 L 38.1 52.2 L 33.33 52.2 L 33.33 47.44 L 28.57 47.44 L 28.57 23.63 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.28 -13.26)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -8.5)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 -7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -15.29 -13.26)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -15.64)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="7.14,0 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -7.14,0 -11.9,0 -11.9,4.76 -7.14,4.76 -2.38,4.76 2.38,4.76 7.14,4.76 11.9,4.76 11.9,0 7.14,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,245,21); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="7.14,2.38 7.14,-2.38 7.14,-7.14 2.38,-7.14 -2.38,-7.14 -7.14,-7.14 -7.14,-2.38 -7.14,2.38 -7.14,7.15 -2.38,7.15 -2.38,2.38 -2.38,-2.38 2.38,-2.38 2.38,2.38 2.38,7.15 7.14,7.15 7.14,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 13.29 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,-7.14 -2.39,-2.38 -2.39,2.38 -2.39,7.15 -2.39,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.39,-11.9 -2.39,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -25.16)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -2.38,4.77 2.38,4.77 2.38,-0.01 2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 -15.29 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -2.38,2.38 -2.38,7.15 -2.38,11.91 2.39,11.91 2.39,7.15 2.39,2.38 2.39,-2.38 2.39,-7.14 2.39,-11.9 -2.38,-11.9 -2.38,-7.14 -2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,11.91 -2.38,7.15 -7.14,7.15 -7.14,2.38 -7.14,-2.38 -7.14,-7.14 -2.38,-7.14 2.38,-7.14 7.14,-7.14 7.14,-2.38 7.14,2.38 7.14,7.15 2.38,7.15 2.38,11.91 7.14,11.91 11.9,11.91 11.9,7.15 11.9,2.38 11.9,-2.38 11.9,-7.14 11.9,-11.9 7.14,-11.9 2.38,-11.9 -2.38,-11.9 -7.14,-11.9 -11.9,-11.9 -11.9,-7.14 -11.9,-2.38 -11.9,2.38 -11.9,7.15 -11.9,11.91 -7.14,11.91 -2.38,11.91 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -41.83)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,2.38 -2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 -7.14,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -20.05 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,2.38 -2.38,7.15 -2.38,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.38,-11.9 -2.38,-7.14 -2.38,-2.38 -2.38,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 18.05 -27.55)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-2.38 -2.38,2.38 -2.38,7.15 -2.38,11.91 2.38,11.91 2.38,7.15 2.38,2.38 2.38,-2.38 2.38,-7.14 2.38,-11.9 -2.38,-11.9 -2.38,-7.14 -2.38,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -15.29 -41.83)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 13.28 -41.83)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -46.6)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,2.38 2.38,2.38 7.14,2.38 11.9,2.38 11.9,-2.38 7.14,-2.38 2.38,-2.38 -2.38,-2.38 -7.14,-2.38 -11.9,-2.38 -11.9,2.38 -7.14,2.38 -2.38,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 -34.69)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="30.95,-4.76 30.95,-9.52 30.95,-14.29 26.19,-14.29 26.19,-19.05 21.43,-19.05 21.43,-23.81 16.67,-23.81 11.9,-23.81 7.14,-23.81 2.38,-23.81 -2.38,-23.81 -7.14,-23.81 -11.9,-23.81 -16.67,-23.81 -21.43,-23.81 -21.43,-19.05 -26.19,-19.05 -26.19,-14.29 -30.95,-14.29 -30.95,-9.52 -30.95,-4.76 -35.71,-4.76 -35.71,0 -35.71,4.76 -35.71,9.52 -35.71,14.29 -35.71,19.05 -35.71,23.81 -30.95,23.81 -30.95,19.05 -30.95,14.29 -30.95,9.52 -30.95,4.76 -30.95,0 -26.19,0 -26.19,-4.76 -26.19,-9.52 -21.43,-9.52 -21.43,-14.29 -16.67,-14.29 -16.67,-19.05 -11.9,-19.05 -7.14,-19.05 -2.38,-19.05 2.38,-19.05 7.14,-19.05 11.9,-19.05 16.67,-19.05 16.67,-14.29 21.43,-14.29 21.43,-9.52 26.19,-9.52 26.19,-4.76 26.19,0 30.95,0 30.95,4.76 30.95,9.52 30.95,14.29 30.95,19.05 30.95,23.81 35.71,23.81 35.71,19.05 35.71,14.29 35.71,9.52 35.71,4.76 35.71,0 35.71,-4.76 30.95,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 27.57 -6.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -29.57 -6.12)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 22.81 3.41)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,-0.01 -2.38,4.77 2.38,4.77 2.38,-0.01 2.38,-4.77 -2.38,-4.77 -2.38,-0.01 " />
+</g>
+		<g transform="matrix(1 0 0 1 -24.81 3.41)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,-0.01 -2.38,4.77 2.38,4.77 2.38,-0.01 2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 18.05 10.55)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 13.28 15.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -20.05 10.55)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -15.29 15.31)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.52 22.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 8.52 22.45)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -5.76 31.97)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.77 -2.38,-4.77 -2.38,0.01 -2.38,4.77 2.38,4.77 2.38,0.01 2.38,-4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 3.76 31.97)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0.01 -2.38,4.77 2.38,4.77 2.38,0.01 2.38,-4.77 -2.38,-4.77 -2.38,0.01 " />
+</g>
+		<g transform="matrix(1 0 0 1 -1 39.12)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+</g>
+</g>
+<g transform="matrix(5.6 0 0 5.6 540 540)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 -11.91 30.96)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 7.14 30.96)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.38 28.58)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 26.19 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,80,60); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-7.14,-9.52 -7.14,-4.75 -2.38,-4.75 -2.38,0.01 -2.38,4.77 2.38,4.77 2.38,9.53 7.15,9.53 7.15,4.77 7.15,0.01 2.38,0.01 2.38,-4.75 2.38,-9.52 -2.38,-9.52 -7.14,-9.52 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,80,60); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 7.14 -26.18)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,80,60); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 11.91 -19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(110,80,60); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(184,155,133); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,2.38 4.76,2.38 4.76,-2.39 0,-2.39 -4.76,-2.39 -4.76,2.38 0,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(184,155,133); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.77,2.38 -0.01,2.38 4.75,2.38 9.53,2.38 9.53,-2.39 4.75,-2.39 -0.01,-2.39 -4.77,-2.39 -9.52,-2.39 -9.52,2.38 -4.77,2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -4.75)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(15,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 -4.75)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(15,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.4 2.39)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248,208,46); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43.97, -53.66)" d="M 17.79 84.61 L 22.549999999999997 84.61 L 22.549999999999997 79.85 L 32.08 79.85 L 32.08 75.09 L 41.6 75.09 L 41.6 70.33 L 46.36 70.33 L 46.36 75.09 L 55.89 75.09 L 55.89 79.85000000000001 L 65.41 79.85000000000001 L 65.41 84.61000000000001 L 70.17 84.61000000000001 L 70.17 75.09 L 65.41 75.09 L 65.41 65.57 L 60.65 65.57 L 60.65 60.8 L 65.41 60.8 L 65.41 56 L 70.17 56 L 70.17 51.28 L 74.93 51.28 L 74.93 46.52 L 55.93000000000001 46.52 L 55.93000000000001 37 L 51.12 37 L 51.12 27.47 L 46.36 27.47 L 46.36 22.71 L 41.6 22.71 L 41.6 27.47 L 36.84 27.47 L 36.84 37 L 32.08 37 L 32.08 46.53 L 13 46.53 L 13 51.29 L 17.759999999999998 51.29 L 17.759999999999998 56 L 22.519999999999996 56 L 22.519999999999996 60.8 L 27.279999999999994 60.8 L 27.279999999999994 65.57 L 22.55 65.57 L 22.55 75.08999999999999 L 17.79 75.08999999999999 L 17.79 84.60999999999999 Z M 51.12 46.52 L 51.12 51.28 L 46.36 51.28 L 46.36 41.76 L 51.12 41.76 Z M 36.84 41.76 L 41.6 41.76 L 41.6 51.28 L 36.84 51.28 L 36.84 41.76 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 35.72 35.72)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 35.72 23.81)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 30.95 14.29)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.39,4.77 2.39,4.77 2.39,0.01 2.39,-4.77 -2.39,-4.77 -2.39,0.01 -2.39,4.77 " />
+</g>
+		<g transform="matrix(1 0 0 1 16.67 11.91)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 21.43 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 21.43 30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="7.13,-7.14 2.37,-7.14 2.37,-2.38 2.37,2.38 -2.39,2.38 -2.39,-2.38 -7.15,-2.38 -11.91,-2.38 -11.91,2.38 -7.15,2.38 -7.15,7.14 -2.39,7.14 2.37,7.14 7.13,7.14 7.13,2.38 11.91,2.38 11.91,-2.38 7.13,-2.38 7.13,-7.14 " />
+</g>
+		<g transform="matrix(1 0 0 1 7.14 35.72)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -11.91 35.72)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.39 35.72)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 4.76 28.58)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,0 4.76,-4.76 -0.01,-4.76 -4.77,-4.76 -4.77,0 -4.77,4.76 -0.01,4.76 -0.01,0 4.76,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -2.39 21.43)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -9.52 28.58)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,-4.76 0,-4.76 -4.76,-4.76 -4.76,0 0,0 0,4.76 4.76,4.76 4.76,0 4.76,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 30.95)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="4.76,-2.38 0,-2.38 0,2.38 -4.76,2.38 -4.76,-2.38 -4.76,-7.14 -9.52,-7.14 -9.52,-2.38 -9.52,2.38 -9.52,7.14 -4.76,7.14 0,7.14 4.76,7.14 4.76,2.38 9.53,2.38 9.53,-2.38 4.76,-2.38 " />
+</g>
+		<g transform="matrix(1 0 0 1 -26.2 19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,0 2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 " />
+</g>
+		<g transform="matrix(1 0 0 1 -21.43 11.91)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+		<g transform="matrix(1 0 0 1 -26.2 7.15)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -30.96 2.39)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -23.81 -11.9)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-4.77,7.15 -0.01,7.15 4.75,7.15 9.52,7.15 9.52,2.38 9.52,-2.39 14.29,-2.39 14.29,-7.14 14.29,-11.91 9.52,-11.91 9.52,-7.14 4.75,-7.14 -0.01,-7.14 -4.77,-7.14 -4.77,-2.39 -0.01,-2.39 4.75,-2.39 4.75,2.38 -0.01,2.38 -4.77,2.38 -4.77,-2.39 -9.53,-2.39 -9.53,2.38 -14.29,2.38 -14.29,7.15 -14.29,11.91 -9.53,11.91 -9.53,7.15 -4.77,7.15 " />
+</g>
+		<g transform="matrix(1 0 0 1 -7.14 -26.18)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 -2.39 -30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -26.18)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 7.14 -19.05)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="2.38,-4.76 -2.38,-4.76 -2.38,0 -2.38,4.76 2.38,4.76 2.38,0 2.38,-4.76 " />
+</g>
+		<g transform="matrix(1 0 0 1 23.81 -7.14)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="9.53,-11.9 4.75,-11.9 -0.01,-11.9 -4.77,-11.9 -4.77,-16.66 -9.52,-16.66 -9.52,-11.9 -9.52,-7.14 -4.77,-7.14 -0.01,-7.14 4.75,-7.14 9.53,-7.14 9.53,-2.38 4.75,-2.38 -0.01,-2.38 -4.77,-2.38 -9.52,-2.38 -9.52,-7.14 -14.29,-7.14 -14.29,-2.38 -14.29,2.39 -9.52,2.39 -4.77,2.39 -0.01,2.39 4.75,2.39 4.75,7.15 -0.01,7.15 -0.01,11.91 -4.77,11.91 -4.77,16.66 -0.01,16.66 4.75,16.66 4.75,11.91 9.53,11.91 9.53,7.15 9.53,2.39 14.28,2.39 14.28,-2.38 14.28,-7.14 14.28,-11.9 9.53,-11.9 " />
+</g>
+		<g transform="matrix(1 0 0 1 11.9 -26.18)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.38" rx="0" ry="0" width="4.76" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 7.14 -30.95)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.385" y="-2.38" rx="0" ry="0" width="4.77" height="4.76" />
+</g>
+		<g transform="matrix(1 0 0 1 2.38 -35.71)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-2.38" y="-2.385" rx="0" ry="0" width="4.76" height="4.77" />
+</g>
+</g>
+</g>
+</svg>
